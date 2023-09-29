@@ -1,0 +1,21 @@
+{
+	"RootType": "gameTelemetryPostMortemContainer",
+	"Data": {
+		"postMortem": {
+			"crashVisitId": "8c61c4e9-2e06-4f10-9e6f-c123ef5dc741",
+			"playthroughId": "6516be55fbfeaa0b",
+			"crashVersion": "4902785",
+			"crashPatch": "2.0",
+			"timeCrash": "2023-09-29T12:08:57Z",
+			"location": {
+				"X": 0.010696,
+				"Y": 3.620667,
+				"Z": 1.591621
+			},
+			"district": "",
+			"zoneType": "",
+			"sessionLength": 4.589000,
+			"isOom": false
+		}
+	}
+}
